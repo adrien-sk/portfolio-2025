@@ -1,4 +1,4 @@
-baseURL = 'localhost:1313'
+baseURL = 'https://adrien-s.dev'
 languageCode = 'en-us'
 title = 'Adrien Skrzypczak'
 theme = 'hello-friend-ng'
