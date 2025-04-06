@@ -5,3 +5,22 @@
 .home-subtitle{
     margin: 0 0 50px;
 }
+
+.resume a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    border: 2px solid;
+    padding: 15px 20px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;   
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+
+.resume a:hover{
+    background-color: #a9a9b3;
+    color: #232425;
+}
