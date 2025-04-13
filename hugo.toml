@@ -41,8 +41,8 @@ disableHugoGeneratorInject = false
       
 #   [services.disqus]
 #     shortname = 'your-disqus-shortname'
-#   [services.googleAnalytics]
-#     ID = 'G-MEASUREMENT_ID'
+[services.googleAnalytics]
+ID = 'G-BV532246NX'
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
