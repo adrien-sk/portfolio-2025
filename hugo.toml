@@ -159,7 +159,7 @@ ID = 'G-BV532246NX'
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/img/avatar2.png"
+    path     = "/img/avatar2.jpg"
     alt      = "Portrait"
     maxWidth = "250px"
 
